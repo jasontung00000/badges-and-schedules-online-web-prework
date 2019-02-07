@@ -1,2 +1,1 @@
-def conference_badges
-  
+def bag
