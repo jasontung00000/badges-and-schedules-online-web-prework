@@ -1,3 +1,3 @@
 def badge_maker
-  badge_maker = "Hello, my name is {name}"
+  badge_maker(name) = "Hello, my name is #{name}."
 end
